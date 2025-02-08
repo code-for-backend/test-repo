@@ -1,3 +1,2 @@
 # test-repo
-this is a test repo 
-Hello github
+A hello world in Java
